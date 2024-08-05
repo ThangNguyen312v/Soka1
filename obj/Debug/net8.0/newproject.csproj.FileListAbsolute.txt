@@ -1,0 +1,15 @@
+E:\newproject\bin\Debug\net8.0\newproject.exe
+E:\newproject\bin\Debug\net8.0\newproject.deps.json
+E:\newproject\bin\Debug\net8.0\newproject.runtimeconfig.json
+E:\newproject\bin\Debug\net8.0\newproject.dll
+E:\newproject\bin\Debug\net8.0\newproject.pdb
+E:\newproject\obj\Debug\net8.0\newproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\newproject\obj\Debug\net8.0\newproject.AssemblyInfoInputs.cache
+E:\newproject\obj\Debug\net8.0\newproject.AssemblyInfo.cs
+E:\newproject\obj\Debug\net8.0\newproject.csproj.CoreCompileInputs.cache
+E:\newproject\obj\Debug\net8.0\newproject.sourcelink.json
+E:\newproject\obj\Debug\net8.0\newproject.dll
+E:\newproject\obj\Debug\net8.0\refint\newproject.dll
+E:\newproject\obj\Debug\net8.0\newproject.pdb
+E:\newproject\obj\Debug\net8.0\newproject.genruntimeconfig.cache
+E:\newproject\obj\Debug\net8.0\ref\newproject.dll
